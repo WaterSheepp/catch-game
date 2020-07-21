@@ -1,0 +1,71 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+juego de verbos el de verdad
+</name>
+</assembly>
+<members>
+<member name="T:juego_de_verbos_el_de_verdad.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:juego_de_verbos_el_de_verdad.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:juego_de_verbos_el_de_verdad.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:juego_de_verbos_el_de_verdad.My.Resources.Resources.basket">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:juego_de_verbos_el_de_verdad.My.Resources.Resources.boom">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:juego_de_verbos_el_de_verdad.My.Resources.Resources.boom2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:juego_de_verbos_el_de_verdad.My.Resources.Resources.dance">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:juego_de_verbos_el_de_verdad.My.Resources.Resources.eat">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:juego_de_verbos_el_de_verdad.My.Resources.Resources.fondo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:juego_de_verbos_el_de_verdad.My.Resources.Resources.miss">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:juego_de_verbos_el_de_verdad.My.Resources.Resources.run">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:juego_de_verbos_el_de_verdad.My.Resources.Resources.swim">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

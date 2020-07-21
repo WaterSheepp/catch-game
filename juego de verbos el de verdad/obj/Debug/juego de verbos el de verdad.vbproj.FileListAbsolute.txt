@@ -1,0 +1,12 @@
+C:\Users\joses\Desktop\patoja\juego de verbos el de verdad\juego de verbos el de verdad\bin\Debug\juego de verbos el de verdad.exe.config
+C:\Users\joses\Desktop\patoja\juego de verbos el de verdad\juego de verbos el de verdad\bin\Debug\juego de verbos el de verdad.exe
+C:\Users\joses\Desktop\patoja\juego de verbos el de verdad\juego de verbos el de verdad\bin\Debug\juego de verbos el de verdad.pdb
+C:\Users\joses\Desktop\patoja\juego de verbos el de verdad\juego de verbos el de verdad\bin\Debug\juego de verbos el de verdad.xml
+C:\Users\joses\Desktop\patoja\juego de verbos el de verdad\juego de verbos el de verdad\obj\Debug\juego de verbos el de verdad.vbprojAssemblyReference.cache
+C:\Users\joses\Desktop\patoja\juego de verbos el de verdad\juego de verbos el de verdad\obj\Debug\juego_de_verbos_el_de_verdad.Form1.resources
+C:\Users\joses\Desktop\patoja\juego de verbos el de verdad\juego de verbos el de verdad\obj\Debug\juego_de_verbos_el_de_verdad.Resources.resources
+C:\Users\joses\Desktop\patoja\juego de verbos el de verdad\juego de verbos el de verdad\obj\Debug\juego de verbos el de verdad.vbproj.GenerateResource.cache
+C:\Users\joses\Desktop\patoja\juego de verbos el de verdad\juego de verbos el de verdad\obj\Debug\juego de verbos el de verdad.vbproj.CoreCompileInputs.cache
+C:\Users\joses\Desktop\patoja\juego de verbos el de verdad\juego de verbos el de verdad\obj\Debug\juego de verbos el de verdad.exe
+C:\Users\joses\Desktop\patoja\juego de verbos el de verdad\juego de verbos el de verdad\obj\Debug\juego de verbos el de verdad.xml
+C:\Users\joses\Desktop\patoja\juego de verbos el de verdad\juego de verbos el de verdad\obj\Debug\juego de verbos el de verdad.pdb
